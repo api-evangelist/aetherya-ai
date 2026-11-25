@@ -66,7 +66,7 @@
 
 Aetherya builds cognitive simulation platforms for understanding how people, populations and institutions may respond before consequential decisions are deployed. Their offerings include Thesia, Pleroma, and Umbra, providing research, fieldwork, and pricing tools for enterprises, public sector, and institutions.
 
-**Areas:** Company · AI · Simulation · Research · Enterprise · Platform
+**Areas:** Company · Artificial Intelligence · Simulation · Research · Enterprise · Platform
 
 ## Aetherya on APIs.io
 
@@ -80,14 +80,14 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aetherya Ai Domain Security](https://apis.io/security/aetherya-ai/aetherya-ai-domain-security/)
-- [Aetherya Ai Trust Center](https://apis.io/security/aetherya-ai/aetherya-ai-trust-center/)
+- [Aetherya Domain Security](https://apis.io/security/aetherya-ai/aetherya-ai-domain-security/)
+- [Aetherya Trust Center](https://apis.io/security/aetherya-ai/aetherya-ai-trust-center/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Aetherya Ai Plans Pricing](https://apis.io/plans/aetherya-ai/aetherya-ai-plans-pricing/)
+- [Aetherya Plans Pricing](https://apis.io/plans/aetherya-ai/aetherya-ai-plans-pricing/)
 
 ## Where to find this API
 
@@ -109,34 +109,34 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 36.1** — thin · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 37.6** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 66.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 31.6 |
-| Developer ergonomics | 42.1 |
-| Access clarity | 88.9 |
+| Operational transparency | 28.6 |
+| Developer ergonomics | 37.5 |
+| Access clarity | 93.6 |
 
-**Agent readiness 9.2** — agent-aware
+**Agent readiness 4.8** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | unknown |
+| Agent Skills | derived (partial credit) |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -145,6 +145,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
 
